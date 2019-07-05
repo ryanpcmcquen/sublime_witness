@@ -3,9 +3,9 @@
     "globals": {
         "background": "#041818",
         "foreground": "#d3b58d",
-        "block_caret": "rgba(110, 255, 110, 0.5)",
-        "caret": "rgba(110, 255, 110, 0.5)",
-        "line_highlight": "seagreen",
+        "block_caret": "rgba(144, 238, 144, 0.5)",
+        "caret": "rgba(144, 238, 144, 0.5)",
+        "line_highlight": "rgba(144, 238, 144, 0.2)",
         "inactive_selection": "#0049f5",
         "selection": "#0000ff"
     },
