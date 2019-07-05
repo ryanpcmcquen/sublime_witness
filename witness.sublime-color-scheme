@@ -1,0 +1,51 @@
+{
+    "name": "Witness Color Scheme",
+    "globals": {
+        "background": "#041818",
+        "foreground": "#d3b58d",
+        "block_caret": "rgba(144, 238, 144, 0.9)",
+        "caret": "rgba(144, 238, 144, 0.9)",
+        "line_highlight": "seagreen",
+        "inactive_selection": "#0000ff"
+    },
+    "rules": [
+        {
+            "name": "Comment",
+            "scope": "comment",
+            "foreground": "#3fdf1f"
+        },
+        {
+            "name": "Function",
+            "scope": "function",
+            "foreground": "white",
+            "background": "dark"
+        },
+        {
+            "name": "Group",
+            "scope": "group",
+            "foreground": "lightblue",
+            "font_style": "underline"
+        },
+        {
+            "name": "Keyword",
+            "scope": "keyword",
+            "foreground": "white"
+        },
+        {
+            "name": "String",
+            "scope": "string",
+            "foreground": "#0fdfaf"
+        },
+        {
+            "name": "Variable",
+            "scope": "variable",
+            "foreground": "lightblue",
+            "font_style": "underline"
+        },
+        {
+            "name": "Warning",
+            "scope": "warning",
+            "foreground": "#504038"
+        }
+    ]
+}
