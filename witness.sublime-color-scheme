@@ -6,7 +6,8 @@
         "block_caret": "rgba(144, 238, 144, 0.9)",
         "caret": "rgba(144, 238, 144, 0.9)",
         "line_highlight": "seagreen",
-        "inactive_selection": "#0000ff"
+        "inactive_selection": "#0049f5",
+        "selection": "#0000ff"
     },
     "rules": [
         {
