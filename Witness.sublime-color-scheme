@@ -2,12 +2,14 @@
     "name": "Witness Color Scheme",
     "globals": {
         "background": "#041818",
-        "foreground": "#d3b58d",
         "block_caret": "rgba(144, 238, 144, 0.8)",
+        "brackets_options": "underline",
         "caret": "rgba(144, 238, 144, 0.8)",
-        "line_highlight": "#072626",
+        "foreground": "#d3b58d",
         "inactive_selection": "#0049f5",
-        "selection": "blue"
+        "line_highlight": "#051a1a",
+        "selection": "blue",
+        "tags_options": "underline"
     },
     "rules": [
         {
@@ -28,6 +30,11 @@
             "font_style": "underline"
         },
         {
+            "name": "Invalid",
+            "scope": "invalid",
+            "foreground": "#504038"
+        },
+        {
             "name": "Keyword",
             "scope": "keyword",
             "foreground": "white"
@@ -40,14 +47,12 @@
         {
             "name": "Tag",
             "scope": "tag",
-            "foreground": "lightblue",
-            "font_style": "underline"
+            "foreground": "lightblue"
         },
         {
             "name": "Variable",
             "scope": "variable",
-            "foreground": "#c8d4ec",
-            "font_style": "underline"
+            "foreground": "#c8d4ec"
         },
         {
             "name": "Warning",
