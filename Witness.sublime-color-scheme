@@ -1,13 +1,13 @@
 {
     "name": "Witness Color Scheme",
     "globals": {
-        "background": "#041818",
-        "block_caret": "rgba(144, 238, 144, 0.8)",
+        "background": "#072626",
+        "block_caret": "rgba(144, 238, 144, 0.7)",
         "brackets_options": "underline",
-        "caret": "rgba(144, 238, 144, 0.8)",
+        "caret": "rgba(144, 238, 144, 0.7)",
         "foreground": "#d3b58d",
         "inactive_selection": "#0049f5",
-        "line_highlight": "#051a1a",
+        "line_highlight": "#072626",
         "selection": "blue",
         "tags_options": "underline"
     },
