@@ -36,5 +36,5 @@ wget -N https://raw.githubusercontent.com/ryanpcmcquen/sublime_witness/master/Wi
 
 Windows:
 ```
-curl https://raw.githubusercontent.com/ryanpcmcquen/sublime_witness/master/Witness.sublime-color-scheme -o "%AppData%\Sublime Text 3\Packages\User\Witness.sublime-color-scheme
+curl https://raw.githubusercontent.com/ryanpcmcquen/sublime_witness/master/Witness.sublime-color-scheme -o "%AppData%\Sublime Text 3\Packages\User\Witness.sublime-color-scheme"
 ```
