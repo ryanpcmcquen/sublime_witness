@@ -35,6 +35,9 @@ Windows:
 curl https://raw.githubusercontent.com/ryanpcmcquen/sublime_witness/master/Witness.sublime-color-scheme -o "%AppData%\Sublime Text 3\Packages\User\Witness.sublime-color-scheme"
 ```
 
+### Twitch clip:
+https://www.twitch.tv/naysayer88/clip/UgliestSecretiveSeahorseTheRinger
+
 #### Known issues:
 
 You may notice a few discrepancies between the Emacs version and the Sublime version. Sublime doesn't categorize the same scopes that Emacs does, which makes certain syntax structures difficult to reproduce. If you have ideas on how to make it more closely match the original, please send in a PR!
