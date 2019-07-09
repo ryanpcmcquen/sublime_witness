@@ -21,15 +21,15 @@
             "foreground": "#79ffcf"
         },
         {
-            "scope": "declaration, entity.name, meta.tag, support.variable, variable",
+            "scope": "declaration, entity.name, meta.struct meta.block, meta.tag, support.variable, variable",
             "foreground": "lightblue"
         },
         {
-            "scope": "entity.name.constant, keyword.control, meta.class entity.name.class, meta.constant, meta.function.parameters, meta.struct entity.name.struct, meta.struct meta.block, meta.struct meta.group, meta.template - storage.type, storage.type, support.constant, support.type, variable.type",
+            "scope": "entity.name.constant, keyword.control, meta.class entity.name.class, meta.constant, meta.function.parameters, meta.struct entity.name.struct, meta.struct meta.group, storage.type, support.constant, support.type, variable.type",
             "foreground": "lightgreen"
         },
         {
-            "scope": "entity.name.enum, keyword.operator, meta.block meta.method entity.name.function, meta.block storage.modifier, meta.class storage.type, meta.function-call variable.function, meta.preprocessor, meta.struct storage.type, meta.template storage.type, punctuation.section, variable.other",
+            "scope": "entity.name.enum, keyword.operator, meta.block meta.method entity.name.function, meta.block storage.modifier, meta.class storage.type, meta.function-call variable.function, meta.preprocessor, meta.struct storage.type - meta.block, meta.template storage.type, punctuation.section, variable.other",
             "foreground": "#d3b58d"
         },
         {
