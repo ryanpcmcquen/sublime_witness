@@ -2,9 +2,9 @@
     "name": "Witness Color Scheme",
     "globals": {
         "background": "#072626",
-        "block_caret": "rgba(144, 238, 144, 0.7)",
+        "block_caret": "rgba(144, 238, 144, 0.6)",
         "brackets_options": "underline",
-        "caret": "rgba(144, 238, 144, 0.7)",
+        "caret": "rgba(144, 238, 144, 1)",
         "foreground": "#d3b58d",
         "inactive_selection": "#0049f5",
         "line_highlight": "#072626",
@@ -13,51 +13,39 @@
     },
     "rules": [
         {
-            "name": "Comment",
             "scope": "comment",
             "foreground": "#3fdf1f"
         },
         {
-            "name": "Function",
-            "scope": "function",
-            "foreground": "white",
-            "background": "dark"
+            "scope": "constant.language",
+            "foreground": "#79ffcf"
         },
         {
-            "name": "Group",
-            "scope": "group",
-            "foreground": "lightblue",
-            "font_style": "underline"
-        },
-        {
-            "name": "Invalid",
-            "scope": "invalid",
-            "foreground": "#504038"
-        },
-        {
-            "name": "Keyword",
-            "scope": "keyword",
-            "foreground": "white"
-        },
-        {
-            "name": "String",
-            "scope": "string",
-            "foreground": "#0fdfaf"
-        },
-        {
-            "name": "Tag",
-            "scope": "tag",
+            "scope": "declaration, entity.name, meta.tag, support.variable, variable",
             "foreground": "lightblue"
         },
         {
-            "name": "Variable",
-            "scope": "variable",
-            "foreground": "#c8d4ec"
+            "scope": "entity.name.constant, keyword.control, meta.class entity.name.class, meta.constant, meta.function.parameters, meta.struct entity.name.struct, meta.struct meta.block, meta.struct meta.group, meta.template - storage.type, storage.type, support.constant, support.type, variable.type",
+            "foreground": "lightgreen"
         },
         {
-            "name": "Warning",
-            "scope": "warning",
-            "foreground": "#504038"
+            "scope": "entity.name.enum, keyword.operator, meta.block meta.method entity.name.function, meta.block storage.modifier, meta.class storage.type, meta.function-call variable.function, meta.preprocessor, meta.struct storage.type, meta.template storage.type, punctuation.section, variable.other",
+            "foreground": "#d3b58d"
+        },
+        {
+            "scope": "entity.name.function, keyword, storage",
+            "foreground": "white"
+        },
+
+        {
+            "scope": "invalid",
+            "foreground": "#504038",
+            "background": "white"
+        },
+
+        {
+            "scope": "string",
+            "foreground": "#0fdfaf"
         }
     ]
 }
