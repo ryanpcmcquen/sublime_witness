@@ -21,7 +21,7 @@
             "foreground": "#79ffcf"
         },
         {
-            "scope": "entity.name, keyword.declaration, meta.annotation, meta.path, meta.struct meta.block, meta.tag, support.variable, variable",
+            "scope": "entity.name, keyword.declaration, meta.annotation, meta.path, meta.struct meta.block, meta.tag, support.variable, variable, variable.other.readwrite",
             "foreground": "lightblue"
         },
         {
