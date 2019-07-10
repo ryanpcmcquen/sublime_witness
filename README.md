@@ -37,7 +37,8 @@ Windows:
 curl https://raw.githubusercontent.com/ryanpcmcquen/sublime_witness/master/Witness.sublime-color-scheme -o "%AppData%\Sublime Text 3\Packages\User\Witness.sublime-color-scheme"
 ```
 
-### Twitch clip:
+### Twitch clips:
+https://www.twitch.tv/naysayer88/clip/SpoopyEphemeralClipzTriHard
 https://www.twitch.tv/naysayer88/clip/UgliestSecretiveSeahorseTheRinger
 
 #### Known issues:
