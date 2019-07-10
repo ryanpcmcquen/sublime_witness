@@ -1,7 +1,7 @@
 # sublime_witness
 Jon Blow's Emacs scheme for Sublime.
 
-[Emacs version](https://github.com/ryanpcmcquen/emacs_witness)
+There is also an [Emacs version](https://github.com/ryanpcmcquen/emacs_witness) (of course).
 
 Here they are side by side:
 ![Side by side comparison](https://user-images.githubusercontent.com/772937/60928361-ef30f000-a261-11e9-92a5-215dece0a345.png)
