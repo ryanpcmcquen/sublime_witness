@@ -1,6 +1,8 @@
 # sublime_witness
 Jon Blow's Emacs scheme for Sublime.
 
+[Emacs version](https://github.com/ryanpcmcquen/emacs_witness)
+
 Here they are side by side:
 ![Side by side comparison](https://user-images.githubusercontent.com/772937/60928361-ef30f000-a261-11e9-92a5-215dece0a345.png)
 
@@ -40,4 +42,4 @@ https://www.twitch.tv/naysayer88/clip/UgliestSecretiveSeahorseTheRinger
 
 #### Known issues:
 
-You may notice a few discrepancies between the Emacs version and the Sublime version. Sublime doesn't categorize the same scopes that Emacs does, which makes certain syntax structures difficult to reproduce. If you have ideas on how to make it more closely match the original, please send in a PR!
+You may notice a few discrepancies between the [Emacs version](https://github.com/ryanpcmcquen/emacs_witness) and the Sublime version. Sublime doesn't categorize the same scopes that Emacs does, which makes certain syntax structures difficult to reproduce. If you have ideas on how to make it more closely match the original, please send in a PR!
