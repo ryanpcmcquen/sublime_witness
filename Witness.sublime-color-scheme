@@ -1,11 +1,15 @@
 {
     "name": "Witness Color Scheme",
     "globals": {
+        "accent": "#d3b58d",
         "background": "#072626",
         "block_caret": "rgba(144, 238, 144, 0.6)",
         "brackets_options": "underline",
         "caret": "rgba(144, 238, 144, 1)",
+        "fold_marker": "#d3b58d",
         "foreground": "#d3b58d",
+        "gutter": "#072626",
+        "gutter_foreground": "#d3b58d",
         "inactive_selection": "#0049f5",
         "line_highlight": "#072626",
         "selection": "blue",
@@ -40,7 +44,7 @@
         {
             "scope": "invalid",
             "foreground": "#504038",
-            "background": "white"
+            "background": "rgba(255, 255, 255, 0.5)"
         },
 
         {
