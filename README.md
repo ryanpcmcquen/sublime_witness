@@ -39,7 +39,6 @@ curl https://raw.githubusercontent.com/ryanpcmcquen/sublime_witness/master/Witne
 
 ### Twitch clips:
 https://www.twitch.tv/naysayer88/clip/SpoopyEphemeralClipzTriHard
-https://www.twitch.tv/naysayer88/clip/UgliestSecretiveSeahorseTheRinger
 
 #### Known issues:
 
