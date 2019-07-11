@@ -40,13 +40,11 @@
             "scope": "entity.name.function, keyword, storage",
             "foreground": "white"
         },
-
         {
             "scope": "invalid",
-            "foreground": "#504038",
-            "background": "rgba(255, 255, 255, 0.5)"
+            "foreground": "darkseagreen",
+            "background": "#504038"
         },
-
         {
             "scope": "string",
             "foreground": "#0fdfaf"
