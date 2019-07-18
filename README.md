@@ -23,19 +23,16 @@ https://packagecontrol.io/packages/Witness%20color%20scheme
 #### Manual install:
 
 Linux:
-```
-wget -N https://raw.githubusercontent.com/ryanpcmcquen/sublime_witness/master/Witness.sublime-color-scheme -P ~/.config/sublime-text-3/Packages/User
-```
+
+    wget -N https://raw.githubusercontent.com/ryanpcmcquen/sublime_witness/master/Witness.sublime-color-scheme -P ~/.config/sublime-text-3/Packages/User
 
 Mac OS:
-```
-wget -N https://raw.githubusercontent.com/ryanpcmcquen/sublime_witness/master/Witness.sublime-color-scheme -P ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/
-```
+
+    wget -N https://raw.githubusercontent.com/ryanpcmcquen/sublime_witness/master/Witness.sublime-color-scheme -P ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/
 
 Windows:
-```
-curl https://raw.githubusercontent.com/ryanpcmcquen/sublime_witness/master/Witness.sublime-color-scheme -o "%AppData%\Sublime Text 3\Packages\User\Witness.sublime-color-scheme"
-```
+
+    curl https://raw.githubusercontent.com/ryanpcmcquen/sublime_witness/master/Witness.sublime-color-scheme -o "%AppData%\Sublime Text 3\Packages\User\Witness.sublime-color-scheme"
 
 ### Twitch clips:
 https://www.twitch.tv/naysayer88/clip/SpoopyEphemeralClipzTriHard
