@@ -18,7 +18,7 @@ In your `Preferences.sublime-settings`.
 
 #### Package Control:
 
-_COMING SOON!_
+https://packagecontrol.io/packages/Witness%20color%20scheme
 
 #### Manual install:
 
