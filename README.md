@@ -1,5 +1,5 @@
 ## Witness color scheme for Sublime Text
-Jon Blow's Emacs scheme for Sublime.
+Jon Blow's Emacs color scheme for Sublime Text.
 
 There is also an [Emacs version](https://github.com/ryanpcmcquen/emacs_witness) (of course).
 
